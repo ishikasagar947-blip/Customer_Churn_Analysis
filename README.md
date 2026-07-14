@@ -5,7 +5,6 @@ Customer churn is a major challenge for subscription-based businesses.
 This project analyzes customer demographics, service usage, contract types, and payment methods to uncover insights that help reduce churn and improve retention.
 
 ---
-
 ## ❓ Problem Statement
 Telecom companies face high churn rates, especially among short-tenure customers and those on flexible contracts.  
 The goal of this project is to **identify the key factors contributing to churn** and provide **data-driven recommendations** for customer retention.
@@ -45,7 +44,7 @@ Customer-Churn-Analysis/
 ## ⚙️ Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Customer-Churn-Analysis.git
+   git clone https://github.com/ishikasagar947-blip/Customer-Churn-Analysis.git
 
 cd Customer-Churn-Analysis
 pip install -r requirements.txt
